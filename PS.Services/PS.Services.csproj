@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PS.Domain\PS.Domain.csproj" />
+    <ProjectReference Include="..\PSData\PS.Data.csproj" />
+    <ProjectReference Include="..\ServicePatern\ServicePatern.csproj" />
+  </ItemGroup>
+
+</Project>

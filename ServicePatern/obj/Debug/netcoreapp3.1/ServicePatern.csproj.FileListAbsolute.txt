@@ -1,0 +1,15 @@
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\obj\Debug\netcoreapp3.1\ServicePatern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\obj\Debug\netcoreapp3.1\ServicePatern.AssemblyInfoInputs.cache
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\obj\Debug\netcoreapp3.1\ServicePatern.AssemblyInfo.cs
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\obj\Debug\netcoreapp3.1\ServicePatern.csproj.CoreCompileInputs.cache
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\bin\Debug\netcoreapp3.1\ServicePatern.deps.json
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\bin\Debug\netcoreapp3.1\ServicePatern.dll
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\bin\Debug\netcoreapp3.1\ServicePatern.pdb
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\obj\Debug\netcoreapp3.1\ServicePatern.csproj.AssemblyReference.cache
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\obj\Debug\netcoreapp3.1\ServicePatern.csproj.CopyComplete
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\obj\Debug\netcoreapp3.1\ServicePatern.dll
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\ServicePatern\obj\Debug\netcoreapp3.1\ServicePatern.pdb

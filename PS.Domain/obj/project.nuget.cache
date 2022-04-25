@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NzwlWFwU1V5g0G+qecGxkAfMICMsw3mu5gCAezWbYtAwqJuK0hNpi1wiBWq1gfUjvy1hBZgpStncfEfCEQvNWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karbo\\Documents\\.net\\ProductStoreTWIN2\\PS.Domain\\PS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karbo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

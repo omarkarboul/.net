@@ -1,0 +1,16 @@
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\karbo\Documents\.net\ProductStoreTWIN2\PSData\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache
